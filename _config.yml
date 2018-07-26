@@ -18,7 +18,7 @@ sass:
   
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "花风絮乱 花神啼鸣 天风繁乱 天魔嗤笑 花天狂骨"
+sidebar-about-description: "花风絮乱 花神啼鸣 天风繁乱/n天魔嗤笑 花天狂骨"
 sidebar-avatar: /img/京乐春水.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
